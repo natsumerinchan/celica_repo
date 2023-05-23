@@ -1,0 +1,9 @@
+{
+  "id": "zygisk_lsposed",
+  "update_to": "https://github.com/LSPosed/LSPosed/releases/download/v1.8.6/LSPosed-v1.8.6-6712-zygisk-release.zip",
+  "license": "GPL-3.0",
+  "changelog": "https://lsposed.github.io/LSPosed/release/changelog.md",
+  "added": 1684836391.817269,
+  "last_update": 1673882223.0,
+  "versions": 1
+}

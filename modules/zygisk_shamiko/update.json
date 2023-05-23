@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_shamiko",
+  "timestamp": 1684692405.0,
+  "versions": [
+    {
+      "timestamp": 1684692405.0,
+      "version": "v0.7.2 (172)",
+      "versionCode": 172,
+      "zipUrl": "https://github.com/natsumerinchan/celica_repo/modules/zygisk_shamiko/v0.7.2_(172)_172.zip",
+      "changelog": "https://github.com/natsumerinchan/celica_repo/modules/zygisk_shamiko/v0.7.2_(172)_172.md"
+    }
+  ]
+}

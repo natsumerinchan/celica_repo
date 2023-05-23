@@ -1,0 +1,4 @@
+[submodule "magisk-modules-repo-util"]
+	path = magisk-modules-repo-util
+	url = https://github.com/ya0211/magisk-modules-repo-util.git
+	branch = main

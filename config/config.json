@@ -1,0 +1,7 @@
+{
+  "repo_name": "celica_repo",
+  "repo_url": "git@github.com:natsumerinchan/celica_repo.git/",
+  "max_num": 2,
+  "show_log": true,
+  "log_dir": "logs"
+}

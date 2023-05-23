@@ -1,0 +1,32 @@
+{
+  "name": "celica_repo",
+  "timestamp": 1684838070.528296,
+  "modules": [
+    {
+      "id": "zygisk_lsposed",
+      "license": "GPL-3.0",
+      "version": "v1.8.6 (6712)",
+      "versionCode": 6712,
+      "name": "Zygisk - LSPosed",
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
+      "states": {
+        "zipUrl": "https://github.com/natsumerinchan/celica_repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+        "changelog": "https://github.com/natsumerinchan/celica_repo/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+      }
+    },
+    {
+      "id": "zygisk_shamiko",
+      "license": "Close Source",
+      "version": "v0.7.2 (172)",
+      "versionCode": 172,
+      "name": "Shamiko",
+      "author": "LSPosed Developers",
+      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
+      "states": {
+        "zipUrl": "https://github.com/natsumerinchan/celica_repo/modules/zygisk_shamiko/v0.7.2_(172)_172.zip",
+        "changelog": "https://github.com/natsumerinchan/celica_repo/modules/zygisk_shamiko/v0.7.2_(172)_172.md"
+      }
+    }
+  ]
+}
