@@ -1,0 +1,9 @@
+{
+  "id": "ssh",
+  "update_to": "https://gitlab.com/d4rcm4rc/MagiskSSH_releases/-/raw/master/magisk_ssh_v0.15.zip",
+  "license": "",
+  "changelog": "https://gitlab.com/d4rcm4rc/MagiskSSH/-/raw/master/module_data/README.md",
+  "added": 1684839345.723404,
+  "last_update": 1679944402.0,
+  "versions": 1
+}

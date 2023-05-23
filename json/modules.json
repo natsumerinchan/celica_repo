@@ -1,7 +1,20 @@
 {
   "name": "celica_repo",
-  "timestamp": 1684838070.528296,
+  "timestamp": 1684840159.92552,
   "modules": [
+    {
+      "id": "ssh",
+      "license": "",
+      "version": "v0.15",
+      "versionCode": 15,
+      "name": "SSH for Magisk",
+      "author": "D4rCM4rC",
+      "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
+      "states": {
+        "zipUrl": "git@github.com:natsumerinchan/celica_repo.git/modules/ssh/v0.15_15.zip",
+        "changelog": "git@github.com:natsumerinchan/celica_repo.git/modules/ssh/v0.15_15.md"
+      }
+    },
     {
       "id": "zygisk_lsposed",
       "license": "GPL-3.0",

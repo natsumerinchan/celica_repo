@@ -1,0 +1,13 @@
+{
+  "id": "ssh",
+  "timestamp": 1679944402.0,
+  "versions": [
+    {
+      "timestamp": 1679944402.0,
+      "version": "v0.15",
+      "versionCode": 15,
+      "zipUrl": "git@github.com:natsumerinchan/celica_repo.git/modules/ssh/v0.15_15.zip",
+      "changelog": "git@github.com:natsumerinchan/celica_repo.git/modules/ssh/v0.15_15.md"
+    }
+  ]
+}

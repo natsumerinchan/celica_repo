@@ -1,0 +1,7 @@
+{
+  "id": "busybox-ndk",
+  "update_to": "https://forum.xda-developers.com/attachments/update-busybox-installer-v1-34-1-all-signed-zip.5760591/",
+  "license": "",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
+  "added": 1684839263.196816
+}
